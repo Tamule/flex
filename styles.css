@@ -1,0 +1,24 @@
+.challenge-1 {
+    display: flex;
+    justify-content:left ;
+}
+.challenge-2 {
+    display: flex;
+    justify-content: right;
+}
+.challenge-3 {
+    display: flex;
+    justify-content: space-between;
+}
+.challenge-4 {
+    display: flex;
+    justify-content: space-around;
+
+}
+#red, 
+#blue,
+#green {
+    border: 1px solid palevioletred;
+    padding:20px;
+    flex: 1;
+}
